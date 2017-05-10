@@ -5,4 +5,4 @@ Glitch will be my personal AI. Protected by encryption hopefully.
 
 Project Alpha - Codeword for this project and the only project I shall work on.
 
-https://playground.pandorabots.com/en/bot/glitch/info/
+https://www.motion.ai/
